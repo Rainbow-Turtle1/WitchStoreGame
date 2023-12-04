@@ -1,0 +1,4 @@
+repository "WitchGame@unity_B46B25ED60D97FBC5FD8@cloud"
+  path "/"
+    br "/main"
+    co "/main"
